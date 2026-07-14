@@ -3,6 +3,11 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
+    "homepage": "https://DanielRRose.github.io/javaScriptEssential",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DanielRRose/javaScriptEssential.git"
+    },
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
